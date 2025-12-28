@@ -1,0 +1,5 @@
+/.venv
+*testing.ipynb
+*.egg-info/
+.idea/
+.vscode/
